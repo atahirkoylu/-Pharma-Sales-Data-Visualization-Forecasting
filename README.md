@@ -2,7 +2,9 @@
 This comprehensive report offers detailed insights into the pharmaceutical sales data collected over a six-year period (2014-2019). 
 
 # Aim
-Explore trends, identify high-performing products, and gain valuable business intelligence to make informed decisions. The report is structured to provide a holistic view of sales across various dimensions, including time, products, customers, locations, and sales teams.
+Explore trends, identify high-performing products, and gain valuable business intelligence to make informed decisions. 
+
+The report is structured to provide a holistic view of sales across various dimensions, including time, products, customers, locations, and sales teams.
 
 # Model
  -Excel: is used for data cleaning
